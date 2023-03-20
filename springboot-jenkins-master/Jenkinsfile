@@ -103,7 +103,7 @@ pipeline {
 //                         sh "git push -u origin master"
 //                         //sh "git push https://${USERNAME}:${PASSWORD}@github.com/learnwithparth/springboot-jenkins.git"
 //                         }
-                }
+//                 }
             }
         }
     }
